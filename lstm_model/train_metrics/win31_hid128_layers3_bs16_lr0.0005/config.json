@@ -1,0 +1,12 @@
+{
+  "window": 31,
+  "step": 1,
+  "hidden": 128,
+  "layers": 3,
+  "dropout": 0.1,
+  "lr": 0.0005,
+  "epochs": 270,
+  "batch_size": 16,
+  "duration_sec": 861.809244,
+  "loss_type": "percent_space_MSE"
+}
